@@ -107,3 +107,6 @@ let greater_than_10 = function(word) {
 greater_than_10('this will return Big Word').then(function(res) {
     console.log(res);
 });
+
+// https://www.codewars.com/kata/583203e6eb35d7980400002a
+// https://www.codewars.com/kata/52efefcbcdf57161d4000091
